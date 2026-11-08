@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/sujon/Project/debugging/src/assertions/simple_assertion_example.py", line 15, in <module>
+    assert university_status == 'closed', 'University is not open sorry. Try again on Monday'
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: University is not open sorry. Try again on Monday

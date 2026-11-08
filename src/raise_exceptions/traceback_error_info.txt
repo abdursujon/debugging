@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/sujon/Project/debugging/src/raise_exceptions/traceback_as_string.py", line 14, in <module>
+    spam()
+  File "/home/sujon/Project/debugging/src/raise_exceptions/traceback_as_string.py", line 11, in spam
+    bacon()
+  File "/home/sujon/Project/debugging/src/raise_exceptions/traceback_as_string.py", line 9, in bacon
+    raise Exception('This is the error message')
+Exception: This is the error message
