@@ -1,2 +1,2 @@
-# debugging
+# Debugging
 Learn how to debug in python
